@@ -60,7 +60,7 @@ To contribute or run IntelliRoad locally, follow these steps:
 
 3. Run the FastAPI server:
    ```
-   uvicorn main:app --reload
+   python -m gunicorn main:app -k uvicorn.workers.UvicornWorker
    ```
 
 4. Open the app in your browser:
