@@ -5,7 +5,7 @@ botocore==1.31.39
 CacheControl==0.13.1
 certifi==2023.7.22
 charset-normalizer==3.2.0
-click @ file:///work/ci_py311/click_1676825163161/work
+click==7.1.2
 fastapi==0.103.0
 flexpolyline==0.1.0
 geojson==3.0.1
@@ -15,39 +15,39 @@ herepy==3.6.0
 idna==3.4
 iniconfig==2.0.0
 iso3166==2.1.1
-Jinja2 @ file:///work/ci_py311/jinja2_1676823587943/work
+Jinja2==3.1.1
 jmespath==1.0.1
 mapbox==0.18.1
-MarkupSafe @ file:///work/ci_py311/markupsafe_1676823507015/work
+MarkupSafe==2.1.1
 msgpack==1.0.5
-mypy @ file:///work/ci_py311/mypy_1676859821445/work
+mypy==0.910
 mypy-extensions==0.4.3
 numpy==1.25.2
 oauthlib==3.2.2
-packaging @ file:///croot/packaging_1693575174725/work
-pandas==2.1.0
-pluggy @ file:///work/ci_py311/pluggy_1676822818071/work
+packaging==21.0
+pandas==1.3.3
+pluggy==0.13.1
 polyline==2.0.0
-psutil @ file:///work/ci_py311_2/psutil_1679337388738/work
-pydantic==2.3.0
-pydantic_core==2.6.3
+psutil==5.8.0
+pydantic==1.8.2
+pydantic-core==1.8.2
 pyhocon==0.3.60
 pyparsing==3.1.1
-pytest @ file:///croot/pytest_1690474690005/work
+pytest==7.5.1
 python-dateutil==2.8.2
-python-dotenv @ file:///work/ci_py311/python-dotenv_1676842320650/work
+python-dotenv==0.19.1
 pytz==2023.3
-requests==2.31.0
+requests==2.26.0
 requests-oauthlib==1.3.1
 s3transfer==0.6.2
 six==1.16.0
 sniffio==1.3.0
 starlette==0.27.0
-toml @ file:///tmp/build/80754af9/toml_1616166611790/work
+toml==0.10.2
 types-requests==2.31.0.2
 types-urllib3==1.26.25.14
-typing_extensions @ file:///croot/typing_extensions_1690297465030/work
+typing-extensions==3.10.0.2
 tzdata==2023.3
 uritemplate==4.1.1
 urllib3==1.26.16
-uvicorn==0.23.2
+uvicorn==0.14.0
