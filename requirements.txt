@@ -9,6 +9,7 @@ click==8.1.7
 fastapi==0.109.2
 flexpolyline==0.1.0
 geojson==3.1.0
+gunicorn==21.2.0
 h11==0.14.0
 here-location-services==0.4.0
 herepy==3.6.0
