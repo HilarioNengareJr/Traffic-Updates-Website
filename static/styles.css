@@ -345,7 +345,7 @@ input:focus+.toggle {
   .m-3{
     margin: 0px !important;
   }
-}
+
 
 .back-top-btn {
   position: fixed;
@@ -373,4 +373,6 @@ input:focus+.toggle {
 .back-top-btn {
   bottom: 20px;
   right: 30px;
+  
+}
 }
