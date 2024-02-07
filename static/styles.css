@@ -307,5 +307,9 @@ input:focus+.toggle {
   .traffic-icon{
     display: none;
   }
+
+  .m-3{
+    margin: 0px !important;
+  }
 }
 
