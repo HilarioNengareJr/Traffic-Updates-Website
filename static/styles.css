@@ -32,12 +32,6 @@
   color: #fff;
 }
 
-#github-button {
-  background-color: #fff;
-  border: none;
-  color: #000;
-  font: 700 14px/1.14 Gotham;
-}
 
 #modal-close-button {
   background-color: #df1b12;
@@ -309,4 +303,9 @@ input:focus+.toggle {
   #incident-list-wrapper {
     flex-direction: column; 
   }
+
+  .traffic-icon{
+    display: none;
+  }
 }
+
